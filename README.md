@@ -1,2 +1,2 @@
 # answai
-Advances Network Scan With Artificial Intelligence
+Advanced Network Scan With Artificial Intelligence
